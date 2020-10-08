@@ -1,0 +1,21 @@
+C:\Users\minal\source\repos\ClassLibraryBikesBusLayer\ClassLibraryBikesBusLayer\bin\Debug\ClassLibraryBikesBusLayer.dll
+C:\Users\minal\source\repos\ClassLibraryBikesBusLayer\ClassLibraryBikesBusLayer\bin\Debug\ClassLibraryBikesBusLayer.pdb
+C:\Users\minal\source\repos\ClassLibraryBikesBusLayer\ClassLibraryBikesBusLayer\obj\Debug\ClassLibraryBikesBusLayer.csprojAssemblyReference.cache
+C:\Users\minal\source\repos\ClassLibraryBikesBusLayer\ClassLibraryBikesBusLayer\obj\Debug\ClassLibraryBikesBusLayer.dll
+C:\Users\minal\source\repos\ClassLibraryBikesBusLayer\ClassLibraryBikesBusLayer\obj\Debug\ClassLibraryBikesBusLayer.pdb
+C:\Users\minal\source\repos\MyBikesWinAppProject\ClassLibraryBikesBusLayer\ClassLibraryBikesBusLayer\bin\Debug\ClassLibraryBikesBusLayer.dll
+C:\Users\minal\source\repos\MyBikesWinAppProject\ClassLibraryBikesBusLayer\ClassLibraryBikesBusLayer\bin\Debug\ClassLibraryBikesBusLayer.pdb
+C:\Users\minal\source\repos\MyBikesWinAppProject\ClassLibraryBikesBusLayer\ClassLibraryBikesBusLayer\obj\Debug\ClassLibraryBikesBusLayer.csprojAssemblyReference.cache
+C:\Users\minal\source\repos\MyBikesWinAppProject\ClassLibraryBikesBusLayer\ClassLibraryBikesBusLayer\obj\Debug\ClassLibraryBikesBusLayer.dll
+C:\Users\minal\source\repos\MyBikesWinAppProject\ClassLibraryBikesBusLayer\ClassLibraryBikesBusLayer\obj\Debug\ClassLibraryBikesBusLayer.pdb
+C:\Users\Expo\Desktop\3 May- Workshops & Corrections\CT2-Gr54\MyBikesWinAppProject\ClassLibraryBikesBusLayer\ClassLibraryBikesBusLayer\bin\Debug\ClassLibraryBikesBusLayer.dll
+C:\Users\Expo\Desktop\3 May- Workshops & Corrections\CT2-Gr54\MyBikesWinAppProject\ClassLibraryBikesBusLayer\ClassLibraryBikesBusLayer\bin\Debug\ClassLibraryBikesBusLayer.pdb
+C:\Users\Expo\Desktop\3 May- Workshops & Corrections\CT2-Gr54\MyBikesWinAppProject\ClassLibraryBikesBusLayer\ClassLibraryBikesBusLayer\obj\Debug\ClassLibraryBikesBusLayer.csproj.CoreCompileInputs.cache
+C:\Users\Expo\Desktop\3 May- Workshops & Corrections\CT2-Gr54\MyBikesWinAppProject\ClassLibraryBikesBusLayer\ClassLibraryBikesBusLayer\obj\Debug\ClassLibraryBikesBusLayer.dll
+C:\Users\Expo\Desktop\3 May- Workshops & Corrections\CT2-Gr54\MyBikesWinAppProject\ClassLibraryBikesBusLayer\ClassLibraryBikesBusLayer\obj\Debug\ClassLibraryBikesBusLayer.pdb
+C:\Users\Expo\Desktop\3 May- Workshops & Corrections\CT2-Gr54\MyBikesWinAppProject\ClassLibraryBikesBusLayer\ClassLibraryBikesBusLayer\obj\Debug\ClassLibraryBikesBusLayer.csprojAssemblyReference.cache
+C:\Users\minal\OneDrive\Desktop\MyBikesWinAppProject\ClassLibraryBikesBusLayer\ClassLibraryBikesBusLayer\bin\Debug\ClassLibraryBikesBusLayer.dll
+C:\Users\minal\OneDrive\Desktop\MyBikesWinAppProject\ClassLibraryBikesBusLayer\ClassLibraryBikesBusLayer\bin\Debug\ClassLibraryBikesBusLayer.pdb
+C:\Users\minal\OneDrive\Desktop\MyBikesWinAppProject\ClassLibraryBikesBusLayer\ClassLibraryBikesBusLayer\obj\Debug\ClassLibraryBikesBusLayer.dll
+C:\Users\minal\OneDrive\Desktop\MyBikesWinAppProject\ClassLibraryBikesBusLayer\ClassLibraryBikesBusLayer\obj\Debug\ClassLibraryBikesBusLayer.pdb
+C:\Users\minal\OneDrive\Desktop\MyBikesWinAppProject\ClassLibraryBikesBusLayer\ClassLibraryBikesBusLayer\obj\Debug\ClassLibraryBikesBusLayer.csprojAssemblyReference.cache

@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="ClassLibraryBikesBusLayer.Bike">
+    <Position X="4.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgABAAAAAAEAAAAEAAAAAAAAAEEBAQCAAAAAAQAAAAE=</HashCode>
+      <FileName>Bike.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="type" />
+      <Field Name="color" />
+    </ShowAsAssociation>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="ClassLibraryBikesBusLayer.MountainBike">
+    <Position X="7.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAABQAAAAQEAAAAAAABAACAAAABgQAAgAIAAAE=</HashCode>
+      <FileName>MountainBike.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="suspension" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="ClassLibraryBikesBusLayer.RoadBike">
+    <Position X="2.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAAQAgAAAEAAAAAAABQEAAAAABAQBAgAIAAAE=</HashCode>
+      <FileName>RoadBike.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="ClassLibraryBikesBusLayer.IMovable">
+    <Position X="4.75" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAE=</HashCode>
+      <FileName>IMovable.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Enum Name="ClassLibraryBikesBusLayer.EnumBikesType">
+    <Position X="0.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEIAACA=</HashCode>
+      <FileName>EnumBikesType.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="ClassLibraryBikesBusLayer.EnumColor">
+    <Position X="9" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAACA=</HashCode>
+      <FileName>EnumColor.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="ClassLibraryBikesBusLayer.EnumSuspension">
+    <Position X="10.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAADA=</HashCode>
+      <FileName>EnumSuspension.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
